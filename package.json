@@ -9,10 +9,10 @@
     { "name": "Christoph Dorn", "web": "https://github.com/cadorn" }
   ],
   "dependencies": {
-    "ws": "0.4.20",
-    "xmlhttprequest": "1.5.0",
-    "emitter-component": "0.0.6",
-    "debug": "0.6.0"
+    "ws": "1.1.1",
+    "xmlhttprequest": "1.8.0",
+    "emitter-component": "1.1.1",
+    "debug": "2.3.0"
   },
   "devDependencies": {
     "mocha": "*",
